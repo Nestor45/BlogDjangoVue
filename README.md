@@ -1,0 +1,4 @@
+# BlogDjangoVue
+
+#INSTALAR VUEJS 
+#API CON DJANGO Y VUEJS
