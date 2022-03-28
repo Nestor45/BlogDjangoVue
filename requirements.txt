@@ -1,0 +1,4 @@
+django  https://www.djangoproject.com/download/
+django-cors-headers  https://pypi.org/project/django-cors-headers/
+djangorestframework  https://www.django-rest-framework.org/
+django-environ https://django-environ.readthedocs.io/en/latest/getting-started.html#installation
